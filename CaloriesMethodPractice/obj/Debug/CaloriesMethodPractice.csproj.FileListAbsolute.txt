@@ -1,0 +1,6 @@
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\bin\Debug\CaloriesMethodPractice.exe.config
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\obj\Debug\CaloriesMethodPractice.csprojResolveAssemblyReference.cache
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\bin\Debug\CaloriesMethodPractice.exe
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\bin\Debug\CaloriesMethodPractice.pdb
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\obj\Debug\CaloriesMethodPractice.exe
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\CaloriesMethodPractice\CaloriesMethodPractice\obj\Debug\CaloriesMethodPractice.pdb
